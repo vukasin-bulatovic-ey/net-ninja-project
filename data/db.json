@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa officiis animi rem illum in. Molestias, corrupti quia corporis quas illum optio eius aliquam possimus similique ad magni sed nisi et odio, odit vel modi minima, esse quod culpa minus quis dolorum! Nemo officia pariatur laudantium consectetur! Quae veniam cumque minima assumenda, iste accusamus fuga adipisci id culpa quod nulla, in magni non, consequuntur dignissimos exercitationem nesciunt rerum consectetur temporibus molestiae suscipit laboriosam? Nisi magnam ea pariatur vel aperiam ratione eaque adipisci tempora id, rerum voluptas veritatis illo reprehenderit ab modi odit veniam rem! Nesciunt eveniet sed temporibus esse veniam quo.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa officiis animi rem illum in. Molestias, ",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
